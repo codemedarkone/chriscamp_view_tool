@@ -19,7 +19,9 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+```ruby
+ChrisCampViewTool::Renderer.copyright 'Chris Collins', 'All rights resereved'
+```
 
 ## Development
 
