@@ -1,4 +1,4 @@
-module ChriscampViewTool
+
 module ChrisCampViewTool
   class Renderer
     def self.copyright name, msg
